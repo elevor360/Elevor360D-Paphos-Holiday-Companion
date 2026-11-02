@@ -1,0 +1,320 @@
+{
+  "version": "3.0",
+  "destination": "Paphos, Cyprus",
+  "updated": "2026-11-02",
+  "intro": "Explore Paphos on the west coast of Cyprus: the harbour, UNESCO-listed archaeological sites, beaches, local food and day trips to Coral Bay, the Akamas Peninsula and traditional villages. Save your plans, memorable visits and photos on this device.",
+  "areas": [
+    {
+      "name": "Kato Paphos",
+      "description": "Harbourfront, promenade, archaeological sites and seafront cafés."
+    },
+    {
+      "name": "Paphos Old Town (Ktima)",
+      "description": "Traditional streets, municipal market area, galleries and local cafés."
+    },
+    {
+      "name": "Coral Bay",
+      "description": "Popular sandy beach and resort area north of Paphos."
+    },
+    {
+      "name": "Chloraka",
+      "description": "Coastal neighbourhood between Paphos and Coral Bay."
+    },
+    {
+      "name": "Geroskipou (Yeroskipou)",
+      "description": "Traditional village known for local sweets and its historic church."
+    },
+    {
+      "name": "Peyia",
+      "description": "Hillside village above Coral Bay with sea views and local tavernas."
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Paphos Archaeological Park",
+      "description": "UNESCO-listed ancient mosaics and ruins; check opening times and ticket prices."
+    },
+    {
+      "name": "Tombs of the Kings",
+      "description": "Impressive rock-cut Hellenistic and Roman tombs; bring water and sun protection."
+    },
+    {
+      "name": "Paphos Harbour and Castle",
+      "description": "Walk the harbourfront and view the medieval castle; check admission for entry."
+    },
+    {
+      "name": "Agia Kyriaki Chrysopolitissa",
+      "description": "Historic church and archaeological remains including the site traditionally associated with St Paul."
+    },
+    {
+      "name": "Paphos Old Town",
+      "description": "Explore restored streets, shops and local cafés."
+    },
+    {
+      "name": "Aphrodite’s Rock (Petra tou Romiou)",
+      "description": "Famous coastal viewpoint; swimming conditions can be hazardous."
+    },
+    {
+      "name": "Sea Caves near Peyia",
+      "description": "Scenic coastal viewpoint; stay away from unstable cliff edges."
+    }
+  ],
+  "transport": [
+    {
+      "name": "Paphos International Airport",
+      "description": "Airport serving the Paphos area; check bus and taxi options."
+    },
+    {
+      "name": "Paphos public buses",
+      "description": "Local buses serve the harbour, Old Town and Coral Bay; check current routes and timetables."
+    },
+    {
+      "name": "Intercity buses",
+      "description": "Check current services to Limassol, Nicosia and other towns."
+    },
+    {
+      "name": "Licensed taxis",
+      "description": "Agree the fare or confirm meter use before travel."
+    },
+    {
+      "name": "Car hire",
+      "description": "Cyprus drives on the left; check insurance, parking and road conditions."
+    },
+    {
+      "name": "Walking",
+      "description": "Harbourfront is walkable; archaeological sites can be hot and exposed."
+    }
+  ],
+  "useful": [
+    {
+      "name": "Emergency services",
+      "description": "Dial 112 in Cyprus."
+    },
+    {
+      "name": "Currency",
+      "description": "Euro (€); check exchange rates and card fees."
+    },
+    {
+      "name": "Travel documents",
+      "description": "Check current UK passport and Cyprus entry requirements before departure."
+    },
+    {
+      "name": "Languages",
+      "description": "Greek and Turkish are official languages; English is widely spoken in tourist areas."
+    },
+    {
+      "name": "Driving",
+      "description": "Drive on the left. Observe local speed limits and parking rules."
+    },
+    {
+      "name": "Time zone",
+      "description": "Cyprus is normally two hours ahead of the UK."
+    },
+    {
+      "name": "Summer heat",
+      "description": "Carry water, use sun protection and avoid strenuous walks at midday."
+    },
+    {
+      "name": "Beach safety",
+      "description": "Follow beach flags and lifeguard advice; conditions can change."
+    },
+    {
+      "name": "Northern Cyprus",
+      "description": "Border crossings and insurance can involve additional rules; check official advice."
+    }
+  ],
+  "links": [
+    {
+      "name": "Cyprus travel advice (UK)",
+      "url": "https://www.gov.uk/foreign-travel-advice/cyprus"
+    },
+    {
+      "name": "Cyprus tourism (official)",
+      "url": "https://www.visitcyprus.com/"
+    },
+    {
+      "name": "Paphos public transport",
+      "url": "https://www.pafosbuses.com/"
+    },
+    {
+      "name": "Paphos Airport (Hermes Airports)",
+      "url": "https://www.hermesairports.com/"
+    },
+    {
+      "name": "Cyprus Department of Antiquities",
+      "url": "https://www.culture.gov.cy/"
+    }
+  ],
+  "advert": {
+    "enabled": false,
+    "image": "adverts/advert.jpg",
+    "link": "",
+    "alt": "Paphos local advertisement"
+  },
+  "beaches": [
+    {
+      "name": "Coral Bay",
+      "description": "Popular sandy beach with seasonal facilities; check lifeguard information."
+    },
+    {
+      "name": "Municipal Baths Beach",
+      "description": "Central swimming area near the harbour; rocky access in places."
+    },
+    {
+      "name": "Alykes Beach",
+      "description": "Small beach near the Kato Paphos hotel area."
+    },
+    {
+      "name": "Faros (Lighthouse) Beach",
+      "description": "Beach near the archaeological park; sea conditions can be rough."
+    },
+    {
+      "name": "Geroskipou Beach",
+      "description": "Beach area east of central Paphos with facilities in season."
+    },
+    {
+      "name": "Lara Beach",
+      "description": "Remote protected turtle nesting area; respect restrictions and avoid disturbing wildlife."
+    }
+  ],
+  "markets": [
+    {
+      "name": "Paphos Old Town market area",
+      "description": "Explore local shops, crafts and souvenir stalls; opening varies."
+    },
+    {
+      "name": "Local bakeries",
+      "description": "Try traditional breads and pastries."
+    },
+    {
+      "name": "Geroskipou sweets",
+      "description": "Look for locally made loukoumi (Cyprus delight)."
+    },
+    {
+      "name": "Supermarkets and essentials",
+      "description": "Find groceries and travel supplies in town and resort areas."
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "Paphos Harbour evenings",
+      "description": "Seafront restaurants, bars and evening strolls."
+    },
+    {
+      "name": "Kato Paphos bars",
+      "description": "Lively bars and music venues; check opening hours."
+    },
+    {
+      "name": "Coral Bay evenings",
+      "description": "Restaurants and bars around the resort strip."
+    },
+    {
+      "name": "Old Town dining",
+      "description": "Relaxed tavernas and cafés away from the seafront."
+    }
+  ],
+  "family": [
+    {
+      "name": "Paphos Zoo",
+      "description": "Animal attraction near Peyia; check current opening, prices and animal welfare information."
+    },
+    {
+      "name": "Coral Bay",
+      "description": "Sandy beach day; supervise children and follow lifeguard advice."
+    },
+    {
+      "name": "Harbour boat trips",
+      "description": "Check seasonal sailing schedules, weather and operator safety."
+    },
+    {
+      "name": "Paphos Aphrodite Waterpark",
+      "description": "Seasonal water park; check height restrictions and tickets."
+    },
+    {
+      "name": "Archaeological mosaics",
+      "description": "Explore ancient history; bring hats and water."
+    }
+  ],
+  "dining": [
+    {
+      "name": "Cypriot meze",
+      "description": "Sample small dishes in a local taverna; confirm prices and portions."
+    },
+    {
+      "name": "Harbour restaurants",
+      "description": "Sea-view dining around Paphos Harbour."
+    },
+    {
+      "name": "Old Town tavernas",
+      "description": "Traditional Cypriot dishes and local atmosphere."
+    },
+    {
+      "name": "Fresh seafood",
+      "description": "Ask about the catch and price before ordering."
+    },
+    {
+      "name": "Halloumi and local specialities",
+      "description": "Try halloumi, souvlaki and local sweets."
+    }
+  ],
+  "daytrips": [
+    {
+      "name": "Akamas Peninsula",
+      "description": "Protected landscapes and walking routes; check access and avoid unsafe off-road driving."
+    },
+    {
+      "name": "Blue Lagoon boat trip",
+      "description": "Boat excursions commonly depart from Latchi; check weather and operator."
+    },
+    {
+      "name": "Polis and Latchi",
+      "description": "Harbour, beach and tavernas north of Paphos."
+    },
+    {
+      "name": "Aphrodite’s Rock",
+      "description": "Coastal viewpoint east of Paphos."
+    },
+    {
+      "name": "Troodos villages",
+      "description": "Mountain villages and scenery; allow time for winding roads."
+    },
+    {
+      "name": "Limassol",
+      "description": "City day trip with marina, old town and museums."
+    }
+  ],
+  "mapPlaces": [
+    {
+      "name": "Paphos Harbour",
+      "description": "Paphos Harbour, Kato Paphos, Cyprus"
+    },
+    {
+      "name": "Paphos Archaeological Park",
+      "description": "Kato Paphos Archaeological Park, Cyprus"
+    },
+    {
+      "name": "Tombs of the Kings",
+      "description": "Tombs of the Kings, Paphos, Cyprus"
+    },
+    {
+      "name": "Coral Bay",
+      "description": "Coral Bay Beach, Peyia, Cyprus"
+    },
+    {
+      "name": "Paphos Old Town",
+      "description": "Paphos Old Town, Cyprus"
+    },
+    {
+      "name": "Paphos Castle",
+      "description": "Paphos Castle, Cyprus"
+    },
+    {
+      "name": "Aphrodite’s Rock",
+      "description": "Petra tou Romiou, Cyprus"
+    },
+    {
+      "name": "Paphos Airport",
+      "description": "Paphos International Airport, Cyprus"
+    }
+  ]
+}
