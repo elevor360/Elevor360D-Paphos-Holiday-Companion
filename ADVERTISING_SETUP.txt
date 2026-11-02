@@ -1,0 +1,1 @@
+Paphos V2: Compatible with Universal Advertising Manager V1. Export adverts.json and upload it to advertising/adverts.json. Upload advert images to advertising/images/. The original guide.json and guide-manager.html are unchanged.
